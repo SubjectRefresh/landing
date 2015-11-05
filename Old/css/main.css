@@ -1,0 +1,10 @@
+.bottom-align {
+    vertical-align: bottom;
+    margin: 0 auto;
+    bottom: 0 auto;
+    position: absolute;
+}
+
+.login {
+    color: #3D3D3D;
+}
