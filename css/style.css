@@ -1,9 +1,9 @@
- .parallax-container {
-     height: 600px;
- }
- 
- .header-image {
-     height: 35px;
-     width: auto;
-     vertical-align: middle;
- }
+.parallax-container {
+    height: 600px;
+}
+
+.header-image {
+    height: 35px;
+    width: auto;
+    vertical-align: middle;
+}
