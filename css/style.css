@@ -7,3 +7,7 @@
     width: auto;
     vertical-align: middle;
 }
+
+footer.page-footer {
+    margin-top: 0;
+}
