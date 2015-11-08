@@ -15,3 +15,7 @@ footer.page-footer {
 .small-font {
     font-size: 60%;
 }
+
+.parallax {
+	top: initial;
+}
