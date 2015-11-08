@@ -17,7 +17,7 @@ footer.page-footer {
 }
 
 .parallax {
-	top: initial;
+    /*top: initial;*/
 }
 
 #index-banner.parallax-container {
