@@ -50,3 +50,8 @@ footer.page-footer {
 .drop-button {
     padding-top: 40px;
 }
+
+nav > .container > ul > li {
+	min-width: 100px;
+	text-align: center;
+}
