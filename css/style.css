@@ -33,3 +33,7 @@ footer.page-footer {
 .nav-and-banner-wrapper {
     display: table-row;
 }
+
+.drop-button {
+    padding-top: 40px;
+}
