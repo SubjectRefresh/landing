@@ -1,3 +1,8 @@
+body {
+    display: table;
+    width: 100%;
+}
+
 .parallax-container {
     height: 600px;
 }
@@ -21,5 +26,10 @@ footer.page-footer {
 }
 
 #index-banner.parallax-container {
-	height: 100vh;
+    height: 100vh;
+}
+
+.nav-bar-container {}
+.nav-and-banner-wrapper {
+    display: table-row;
 }
