@@ -46,3 +46,7 @@ footer.page-footer {
     line-height: 25px;
     transform: rotate(-45deg);
 }
+
+.drop-button {
+    padding-top: 40px;
+}
