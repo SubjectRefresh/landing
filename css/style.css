@@ -19,3 +19,7 @@ footer.page-footer {
 .parallax {
 	top: initial;
 }
+
+#index-banner.parallax-container {
+	height: 100vh;
+}
