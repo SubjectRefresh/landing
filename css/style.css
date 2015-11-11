@@ -55,3 +55,9 @@ nav > .container > ul > li {
 	min-width: 100px;
 	text-align: center;
 }
+.card .card-image img {
+    height: 80%;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
