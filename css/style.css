@@ -30,11 +30,12 @@ footer.page-footer {
 }
 
 .nav-bar-container {}
+
 .nav-and-banner-wrapper {
     display: table-row;
 }
 
-.in-dev {
+.banner {
     position: absolute;
     height: 25px;
     background: #FF4081;
@@ -47,11 +48,19 @@ footer.page-footer {
     transform: rotate(-45deg);
 }
 
+.card .card-image img {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    width: calc(100% - 80px);
+    padding-bottom: 40px;
+}
+
 .drop-button {
     padding-top: 40px;
 }
 
 nav > .container > ul > li {
-	min-width: 100px;
-	text-align: center;
+    min-width: 100px;
+    text-align: center;
 }
